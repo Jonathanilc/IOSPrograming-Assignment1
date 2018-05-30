@@ -13,6 +13,7 @@ target 'Assignment1' do
     pod 'Firebase/Database'
     pod 'SVProgressHUD'
     pod 'ChameleonFramework'
+    pod 'NotificationBanner'
 
 end
 
